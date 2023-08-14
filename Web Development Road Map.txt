@@ -1,0 +1,27 @@
+HTML
+https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
+
+CSS
+https://www.youtube.com/watch?v=FwmuhNTrJO4&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
+
+
+JAVASCRIPT
+https://www.youtube.com/watch?v=fBhxs9OHxtY&list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
+
+
+PHP
+https://www.youtube.com/watch?v=v4SVKLTVNS8&list=PLTydW-y9HsbTHx5nDUZy6iKfnkFEqLb2F
+
+
+MYSQL
+https://www.youtube.com/watch?v=mhDJYm4cLzU&list=PLTydW-y9HsbQ2ztoaLBJTd4wwjc_oqWx4
+
+
+
+......ADVANCE COURSE FOR DATABASE.....
+
+HTML TO MYSQL USING PHP
+https://www.youtube.com/watch?v=2fM6BJXvP6A&list=PLejKBGxF74J6Vm4RB06-3Qzxz1dn5XR0R
+
+Custom Video Player
+https://www.youtube.com/watch?v=Ntd6lzohOTQ
